@@ -1,0 +1,8 @@
+Added Component: Designator=IC1(D2PAK - T0263)
+Added Pin To Net: NetName=NetR1_2 Pin=IC1-1
+Added Pin To Net: NetName=+12 Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=IC1-3
+Added Pin To Net: NetName=GND Pin=IC1-3
+Added Pin To Net: NetName=NetD1_1 Pin=IC1-4
+Added Pin To Net: NetName=VCC Pin=IC1-5
+Added Member To Class: ClassName=LM2587 Member=Component IC1 LM2587
